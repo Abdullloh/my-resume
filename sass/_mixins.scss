@@ -1,0 +1,10 @@
+@mixin link ($cl,$fs,$fw) {
+    color: $cl;
+    font-size: $fs;
+    font-weight: $fw;
+}
+@mixin button ($bg,$cl,) {
+    background: $bg;
+    color: $cl;
+    
+}
